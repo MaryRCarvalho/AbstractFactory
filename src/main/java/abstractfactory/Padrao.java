@@ -1,6 +1,6 @@
 package abstractfactory;
 
-public interface Diploma {
+public interface Padrao {
 
     String emitir();
 }

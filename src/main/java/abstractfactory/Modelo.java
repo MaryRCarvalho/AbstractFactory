@@ -1,6 +1,6 @@
 package abstractfactory;
 
-public interface Historico {
+public interface Modelo {
 
     String emitir();
 }
